@@ -11,6 +11,6 @@ I had incorporated saving into local storage so it will save in your browser as 
 * CSS
 * Vanilla JS
 
-Author
+# Author
 
 Rochelle Ruiz
